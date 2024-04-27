@@ -1,9 +1,7 @@
 from redbot.core import commands
 import random
 
-import cave_quotes
-
-cave_quotes = cave_quotes.cave_quotes
+from .quotes import cave_quotes
 
 
 class Aperture(commands.Cog):
@@ -16,4 +14,4 @@ class Aperture(commands.Cog):
     async def quote(self, ctx):
         """This does stuff!"""
         # Your code will go here
-        await ctx.send("**Cave Johnson:** " + cave_quotes[random.randint(0, len(cave_quotes) -1)])
+        await ctx.send(cave_quotes[1])

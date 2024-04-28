@@ -37,3 +37,19 @@ cave_quotes = ["Now, if you're part of Control Group Kepler-Seven, we implanted 
           "If you're allergic to peanuts, you might want to tell somebody now, because this next test may turn your blood into peanut water for a few minutes. On the bright side, if we can make this happen, they're gonna have to invent a new type of Nobel Prize to give us, so hang in there.",
           "The average human male is about sixty percent water. Far as we're concerned, that's a little extravagant. So if you feel a bit dehydrated in this next test, that's normal. We're gonna hit you with some jet engines, and see if we can't get you down to twenty or thirty percent.",
           "All right. We're working on a little teleportation experiment. Now, this doesn't work with all skin types, so try to remember which skin is yours, and if it doesn't teleport along with you, we'll do what we can to sew you right back into it.",]
+
+wheatley_quotes = ["AH! Oh. My. God. You look terribl-- ummm... good. Looking good, actually.",
+                   "Most test subjects do experience some cognitive deterioration after a few months in suspension. Now you've been under for... quite a lot longer, and it's not out of the question that you might have a very minor case of serious brain damage. But don't be alarmed, alright? Although, if you do feel alarm, try to hold onto that feeling because that is the proper reaction to being told you have brain damage.",
+                   "Ay. Double Pee-Ell-Ee. Just say 'Apple'. Easy word, isn't it? 'Apple'. How would you use it in a sentence? 'Mmm, this apple's crunchy,' you might say. And I'm not even asking you for the whole sentence. Just the word 'Apple'.",
+                   "Alright, I wasn't going to mention this to you, but I am in PRETTY HOT WATER here.",
+                   "The reserve power ran out, so of course the whole relaxation center stops waking up the bloody test subjects.",
+                   "And whose fault do you think it's going to be when the management comes down here and finds ten thousand flipping vegetables?",
+                   "Okay, listen, we should get our stories straight, alright? If anyone asks -- and no one's gonna ask, don't worry -- but if anyone asks, tell them as far as you know, the last time you checked, everyone looked pretty much alive. Alright? Not dead.",
+                   "Almost there! Remember: you're looking for a gun that makes holes. Not bullet holes, but-- well, you'll figure it out. Really do hold on this time!",
+                   "Whew. There we go! Now I'll be honest, you are probably in no fit state to run this particular type of cognitive gauntlet. But... um... at least you're a good jumper. So... you've got that. You've got the jumping on your side. Just do your best, and I'll meet you up ahead.",
+                   "I know I've painted quite a grim picture of your chances. But if you simply stand here, we will both surely die.",
+                   "Can you see the portal gun? Also, are you alive? That's important, should have asked that first.",
+                   "I'll wait--I'll wait one hour. Then I'll come back and, assuming I can locate your dead body, I'll bury you. Alright? Brilliant! Go team! See you in an hour! Hopefully! If you're not... dead.",
+                   "Oh, brilliant. You DID find a portal gun! You know what? It just goes to show: people with brain damage are the real heroes in the end aren't they? At the end of the day. Brave.",
+                   "Ummmm. Yeah, I can't do it if you're watching.",
+                   "If you want to just call it quits, we could just sit here. Forever. That's an option. Option A: Sit here. Do nothing. Option B: Go through there, and if she's alive, she'll almost certainly kill us."]

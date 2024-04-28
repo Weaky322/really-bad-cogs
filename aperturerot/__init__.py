@@ -1,5 +1,5 @@
-from aperture import Aperture
+from .aperturerot import ApertureRot
 
 
 async def setup(bot):
-    await bot.add_cog(Aperture(bot))
+    await bot.add_cog(ApertureRot(bot))

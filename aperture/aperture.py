@@ -1,7 +1,7 @@
 from redbot.core import commands
 import random
 
-from .quotes import cave_quotes
+from quotes import cave_quotes
 
 
 class Aperture(commands.Cog):

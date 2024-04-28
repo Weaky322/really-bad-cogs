@@ -1,3 +1,5 @@
+glados_quotes = ["Perfect. Please move quickly to the chamberlock, as the effects of prolonged exposure to the Button are not part of this test."]
+
 cave_quotes = ["Now, if you're part of Control Group Kepler-Seven, we implanted a tiny microchip about the size of a postcard into your skull. Most likely you've forgotten it's even there, but if it starts vibrating and beeping during this next test, let us know, because that means it's about to hit five hundred degrees, so we're gonna need to go ahead and get that out of you pretty fast.",
           "Welcome, gentlemen, to Aperture Science. Astronauts, war heroes, Olympians--you're here because we want the best, and you are it. So: Who is ready to make some science?",
           "Your test assignment will vary, depending on the manner in which you have bent the world to your will.",

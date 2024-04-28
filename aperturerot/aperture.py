@@ -6,7 +6,7 @@ from aperturerot.quotes import cave_quotes
 from aperturerot.quotes import wheatley_quotes
 
 
-class Aperture(commands.Cog):
+class ApertureRot(commands.Cog):
     """My custom cog"""
 
     def __init__(self, bot):
@@ -25,4 +25,4 @@ class Aperture(commands.Cog):
     @commands.command()
     async def wheatley(self, ctx):
         """Get a random Wheatley quote"""
-        await ctx.send("**GLaDOS:** " + wheatley_quotes[random.randint(0, len(wheatley_quotes) - 1)])
+        await ctx.send("**Wheatley:** " + wheatley_quotes[random.randint(0, len(wheatley_quotes) - 1)])

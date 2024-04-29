@@ -14,15 +14,15 @@ class ApertureRot(commands.Cog):
 
     @commands.command()
     async def glados(self, ctx):
-        """Get a random GLaDOS quote"""
+        """Get a random GLaDOS quotes"""
         await ctx.send("**GLaDOS:** " + glados_quotes[random.randint(0, len(glados_quotes) - 1)])
 
     @commands.command()
     async def cave(self, ctx):
-        """Get a random Cave Johnson quote"""
+        """Get a random Cave Johnson quotes"""
         await ctx.send("**Cave Johnson:** " + cave_quotes[random.randint(0, len(cave_quotes) - 1)])
 
     @commands.command()
     async def wheatley(self, ctx):
-        """Get a random Wheatley quote"""
+        """Get a random Wheatley quotes"""
         await ctx.send("**Wheatley:** " + wheatley_quotes[random.randint(0, len(wheatley_quotes) - 1)])

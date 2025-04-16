@@ -1,4 +1,4 @@
-sfrom redbot.core import commands
+from redbot.core import commands
 import discord
 
 class Isaac(commands.Cog):
@@ -6,7 +6,6 @@ class Isaac(commands.Cog):
 
     def __init__(self, bot):
         self.bot = bot
-
 
 
     @commands.Cog.listener()

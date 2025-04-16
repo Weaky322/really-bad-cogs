@@ -2,3 +2,6 @@ Just some plugins I have written/am writing for Red-DiscordBot. Inspired by what
 
 **aperturerot**
 Sends quotes from Portal and Portal 2, as well as a few other things.
+
+**isaac**
+Sends a picture of Isaac from 'The Binding of Isaac' when a user says "Isaac"

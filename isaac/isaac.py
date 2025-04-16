@@ -1,4 +1,4 @@
-from redbot.core import commands
+sfrom redbot.core import commands
 import discord
 
 class Isaac(commands.Cog):
@@ -11,5 +11,5 @@ class Isaac(commands.Cog):
 
     @commands.Cog.listener()
     async def on_message(self, message):
-        if not message.author.bot and "isaac" in message.content.lower():
+        if not message.author.bot and message.content.lower() == "isaac"
             await message.channel.send("https://imgur.com/kM2BGHj")
